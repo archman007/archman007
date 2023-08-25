@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @archman007
 - 👀 I’m interested in programming several languages c++ Delphi rust JavaFX
-- 🌱 I’m currently learning project management methodolgies
+- 🌱 I’m currently learning software work flows
 - 💞️ I’m looking to collaborate on ArchLinux
 - 📫 How to reach me arch@archbrooks.com
 
